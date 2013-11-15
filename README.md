@@ -1,4 +1,4 @@
 myconfig
 ========
 
-git config
+my git config based on others: .gitconfig
