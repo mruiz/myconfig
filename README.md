@@ -1,0 +1,4 @@
+myconfig
+========
+
+git config
